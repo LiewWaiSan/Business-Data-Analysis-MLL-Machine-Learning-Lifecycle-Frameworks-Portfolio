@@ -1,21 +1,21 @@
 # Data & Business Analysis + MLL (Machine Learning Lifecycle / Frameworks) Portfolio
 
-Welcome to my portfolio! I specialize in bridging the gap between raw data and strategic business decisions using business intelligence, programming, and generative AI.
+Welcome to my portfolio! As a Senior Business and Data Analyst, I excel at turning complex data into clear, actionable visual insights. My core expertise is building advanced Power BI dashboards, interactive reports, and robust data models. By integrating these visualization skills with generative AI workflow automation, I deliver smart, scalable solutions that drive strategic decisions.
 
 ---
 
 ## 📊 1) Data & Business Analysis
 
-### 📈 With Power BI
-* **[Project Name 1](link-to-folder-or-repo)**: A brief 1-sentence tagline describing the business problem solved (e.g., *Interactive executive dashboard tracking retail sales performance and supply chain delays*).
-* **[Project Name 2](link-to-folder-or-repo)**: Short description here.
+### 📈 Power BI Dashboard
+* **[Talent Management & Workforce Dynamics Report](link-to-folder-or-repo)**: An interactive human resources dashboard designed to analyze workforce demographics, evaluate employee performance and track attrition trends to improve retention strategies at Liew Wai San Trading Co.
+  
+* **[Quantitative Trade Performance Analytics](link-to-folder-or-repo)**: An interactive trading performance dashboard tracking win rates, profit factors and historical execution metrics to optimize day trading strategy and profitability.
 
-### 🎨 With Tableau
-* **[Project Name 3](link-to-folder-or-repo)**: Short description here (e.g., *Dynamic customer churn tracking dashboard featuring cohort analysis*).
+### 🎨 Tableau
+* **[Global Tech Talent & Certification Tracker](link-to-folder-or-repo)**: An interactive engineering competency dashboard tracking technical certifications by category, region, and business vertical to map workforce capabilities and drive strategic enterprise upskilling.
 
-### 🐍 With Python & Generative AI
-* **[Project Name 4](link-to-folder-or-repo)**: Short description here (e.g., *Automated pipeline that cleans daily transaction data and uses an LLM to generate natural language weekly executive summaries*).
-
+### 🐍 Python & Generative AI
+* **[Staff Augmentation Performance Analytics Platform](link-to-folder-or-repo)**: An interactive dual-core analytics framework leveraging GenAI and SME validation to optimize workforce technical performance and accelerate strategic client growth.
 ---
 
 ## 🤖 2) MLL (Machine Learning Lifecycle / Frameworks)
