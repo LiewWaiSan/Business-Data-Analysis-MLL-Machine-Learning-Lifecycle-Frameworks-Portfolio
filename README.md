@@ -7,7 +7,7 @@ Welcome to my portfolio! As a Senior Business and Data Analyst, I excel at turni
 ## 📊 1) Data & Business Analysis
 
 ### 📈 Power BI Dashboard
-* **[Talent Management & Workforce Dynamics Report](link-to-folder-or-repo)**: An interactive human resources dashboard designed to analyze workforce demographics, evaluate employee performance and track attrition trends to improve retention strategies at Liew Wai San Trading Co.
+* **[Talent Management & Workforce Dynamics Report](https://github.com/LiewWaiSan/Talent-Management-Workforce-Dynamics-Dashboard/blob/main/README.md)**: An interactive human resources dashboard designed to analyze workforce demographics, evaluate employee performance and track attrition trends to improve retention strategies at Liew Wai San Trading Co.
   
 * **[Quantitative Trade Performance Analytics](link-to-folder-or-repo)**: An interactive trading performance dashboard tracking win rates, profit factors and historical execution metrics to optimize day trading strategy and profitability.
 
