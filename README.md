@@ -1,6 +1,3 @@
-# LiewWaiSan
-Welcome to my portfolio!
-
 # Data & Business Analysis + MLL (Machine Learning Lifecycle / Frameworks) Portfolio
 
 Welcome to my portfolio! I specialize in bridging the gap between raw data and strategic business decisions using business intelligence, programming, and generative AI.
