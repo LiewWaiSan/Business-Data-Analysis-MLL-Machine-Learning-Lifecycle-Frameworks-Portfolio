@@ -24,3 +24,16 @@ Welcome to my portfolio! As a Senior Business and Data Analyst, I excel at turni
 
 * **[Predictive Customer Lifetime Value Model](link-to-folder)**: End-to-end ML workflow from data cleaning to evaluating $R^2$ and RMSE metrics to target high-value customers.
 * **[Churn Prediction API Deployment](link-to-folder)**: Implementation of a classification pipeline with features scaled and metrics visualized via confusion matrices.
+
+---
+
+## ⚡ 3) IPA (Intelligent Process Automation)
+
+This section showcases my experience building end-to-end automated workflows, integrating disparate business systems, and embedding AI to eliminate repetitive manual tasks.
+
+### ⚙️ Power Automate Cloud & Desktop Flows
+* [**Automated Invoice Processing & ERP Ingestion Platform**](https://github.com): An end-to-end cloud and desktop (RPA) workflow triggered by incoming emails that extracts text from unstructured invoice PDFs, routes high-value invoices for manager approval via Microsoft Teams, and automatically keys validated records into a legacy financial system.
+* [**Real-Time Data Pipeline & Alerts Automation**](https://github.com): A scheduled cloud workflow that extracts weekly transaction data from SharePoint folders, runs an internal data validation script, updates a Power BI semantic model, and pushes cross-departmental summary alerts to Microsoft Teams channels.
+
+### 🤖 AI Builder & Copilot Integration
+* [**Customer Sentiment Analysis & Escalation Workflow**](https://github.com): An intelligent workflow leveraging AI Builder sentiment analysis to evaluate customer feedback surveys upon submission. Negative sentiments automatically trigger a high-priority email notification and log a ticket into the CRM for immediate support team remediation.
