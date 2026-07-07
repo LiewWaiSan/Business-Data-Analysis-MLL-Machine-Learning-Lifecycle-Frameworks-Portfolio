@@ -22,7 +22,6 @@ Welcome to my portfolio! As a Senior Business and Data Analyst, I excel at turni
 
 *This section showcases my experience deploying, evaluating, and monitoring machine learning models in a business context.*
 
-* **[Predictive Customer Lifetime Value Model](link-to-folder)**: End-to-end ML workflow from data cleaning to evaluating $R^2$ and RMSE metrics to target high-value customers.
 * **[Churn Prediction API Deployment](link-to-folder)**: Implementation of a classification pipeline with features scaled and metrics visualized via confusion matrices.
 
 ---
@@ -35,9 +34,9 @@ This section showcases my experience building end-to-end automated workflows, in
 ### ⚙️ Power Automate Cloud & Desktop Flows
 
 * [**Real-Time Data Pipeline & Alerts Automation**](https://github.com): An end-to-end cloud and desktop (RPA) workflow triggered by incoming emails that extracts text from unstructured invoice PDFs, routes high-value invoices for manager approval via Microsoft Teams, and automatically keys validated records into a legacy financial system.
-* [**Real-Time Data Pipeline & Alerts Automation:**](https://github.com): A scheduled cloud workflow that extracts weekly transaction data from SharePoint folders, runs an internal data validation script, updates a Power BI semantic model, and pushes cross-departmental summary alerts to Microsoft Teams channels.
+* [**Automated Invoice Processing & ERP Ingestion Platform:**](https://github.com): A scheduled cloud workflow that extracts weekly transaction data from SharePoint folders, runs an internal data validation script, updates a Power BI semantic model, and pushes cross-departmental summary alerts to Microsoft Teams channels.
 
-### 🤖 AI Builder, Copilot & Chatbot Integration
+### 🤖  Conversational AI & Copilot Integration
 
 * [**Pulse Automated HR KPI Monitor & Chatbot Assistant**](https://github.com): An end-to-end data-driven ecosystem bridging BI and Conversational AI. Features a Power BI data-driven alert that triggers a Power Automate cloud flow to push proactive Microsoft Teams notifications when attrition thresholds are breached. Integrated with a Copilot Studio chatbot that captures user requests, dynamically executes complex DAX queries against the Power BI dataset via API, parses JSON responses, and answers ad-hoc workforce metrics queries in real time.
-* [**Customer Sentiment Analysis & Escalation Workflow:**](https://github.com): An intelligent workflow leveraging AI Builder sentiment analysis to evaluate customer feedback surveys upon submission. Negative sentiments automatically trigger a high-priority email notification and log a ticket into the CRM for immediate support team remediation.
+
