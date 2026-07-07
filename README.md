@@ -35,7 +35,7 @@ This section showcases my experience building end-to-end automated workflows, in
 ### ⚙️ Power Automate Cloud & Desktop Flows
 
 * [**Real-Time Data Pipeline & Alerts Automation**](https://github.com): An end-to-end cloud and desktop (RPA) workflow triggered by incoming emails that extracts text from unstructured invoice PDFs, routes high-value invoices for manager approval via Microsoft Teams, and automatically keys validated records into a legacy financial system.
-* **Real-Time Data Pipeline & Alerts Automation:** A scheduled cloud workflow that extracts weekly transaction data from SharePoint folders, runs an internal data validation script, updates a Power BI semantic model, and pushes cross-departmental summary alerts to Microsoft Teams channels.
+* [**Real-Time Data Pipeline & Alerts Automation:**](https://github.com): A scheduled cloud workflow that extracts weekly transaction data from SharePoint folders, runs an internal data validation script, updates a Power BI semantic model, and pushes cross-departmental summary alerts to Microsoft Teams channels.
 
 ### 🤖 AI Builder, Copilot & Chatbot Integration
 
