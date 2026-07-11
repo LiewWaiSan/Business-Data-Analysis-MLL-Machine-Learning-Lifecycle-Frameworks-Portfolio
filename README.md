@@ -11,8 +11,7 @@ Welcome to my portfolio! As a Senior Business and Data Analyst, I excel at turni
   
 * **[Quantitative Trade Performance Analytics](https://github.com/LiewWaiSan/Quantitative-Trades-Performance-Analytics/blob/main/README.md)**: An interactive trading performance dashboard tracking win rates, profit factors and historical execution metrics to optimize day trading strategy and profitability.
 
-### 🎨 Tableau
-* **[Global Tech Talent & Certification Tracker](link-to-folder-or-repo)**: An interactive engineering competency dashboard tracking technical certifications by category, region, and business vertical to map workforce capabilities and drive strategic enterprise upskilling.
+* **[Global Tech Talent & Certification Tracker](https://github.com/LiewWaiSan/Global-Tech-Talent-and-Certification-Tracker/blob/main/README.md)**: An interactive engineering competency dashboard tracking technical certifications by category, region, and business vertical to map workforce capabilities and drive strategic enterprise upskilling.
 
 ### 🐍 Python & Generative AI
 * **[Staff Augmentation Performance Analytics Platform](https://github.com/LiewWaiSan/Engineer-Management-for-a-Staff-Augmentation-Company/blob/main/LWS_Project.ipynb)**: An interactive dual-core analytics framework leveraging GenAI and SME validation to optimize workforce technical performance and accelerate strategic client growth.
