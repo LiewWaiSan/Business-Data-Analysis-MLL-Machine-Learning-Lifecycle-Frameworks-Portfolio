@@ -32,6 +32,7 @@ This section showcases my experience building end-to-end automated workflows, in
 ### ⚙️ Power Automate Cloud & Desktop Flows
 
 * [**Real-Time Data Pipeline & Alerts Automation**](https://github.com): An end-to-end cloud and desktop (RPA) workflow triggered by incoming emails that extracts text from unstructured invoice PDFs, routes high-value invoices for manager approval via Microsoft Teams, and automatically keys validated records into a legacy financial system.
+
 * [**Automated Invoice Processing & ERP Ingestion Platform**](https://github.com): A scheduled cloud workflow that extracts weekly transaction data from SharePoint folders, runs an internal data validation script, updates a Power BI semantic model, and pushes cross-departmental summary alerts to Microsoft Teams channels.
 
 ---
@@ -39,6 +40,7 @@ This section showcases my experience building end-to-end automated workflows, in
 ### 🤖 Conversational AI & Copilot Integration
 
 * [**Autonomous Real Estate Booking & Inquiry Agent**](https://github.com): An end-to-end intelligent conversational agent built using Microsoft Copilot Studio that combines Generative AI knowledge grounding with multi-system workflow automation. Configured with **Generative Answers** to resolve unstructured user inquiries using external domain knowledge bases (e.g., Wikipedia real estate taxonomy). For booking fulfillment, the agent triggers a custom **Power Automate Agent Flow**, leveraging Power Fx formulas (`Text()`) to handle dynamic variable transformations and prevent schema errors. Automatically logs validated reservation details directly into **OneDrive / Excel Online tables** while simultaneously triggering automated confirmation notifications via **Office 365 Outlook**.
+  
 * [**Pulse Automated HR KPI Monitor & Chatbot Assistant**](https://github.com): An end-to-end data-driven ecosystem bridging BI and Conversational AI. Features a Power BI data-driven alert that triggers a Power Automate cloud flow to push proactive Microsoft Teams notifications when attrition thresholds are breached. Integrated with a Copilot Studio chatbot that captures user requests, dynamically executes complex DAX queries against the Power BI dataset via API, parses JSON responses, and answers ad-hoc workforce metrics queries in real time.
 
 
